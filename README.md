@@ -1,2 +1,2 @@
-# bioinformatics-portfolio
-“Bioinformatics portfolio: reproducible pipelines, analysis notebooks, and tooling (Python/R/NGS).”
+# Bioinformatics Portfolio
+This repo contains projects, pipelines, and notebooks demonstrating bioinformatics skills.
