@@ -205,3 +205,47 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# ---- R ----
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Bioinformatics / NGS common ----
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+*.g.vcf.gz
+*.bed
+*.bed.gz
+*.gtf
+*.gff
+*.gff3
+*.fasta
+*.fa
+*.fna
+*.fasta.gz
+*.fa.gz
+*.fna.gz
+
+results/
+output/
+logs/
+tmp/
+work/
+.cache/
+
